@@ -1,0 +1,13 @@
+Database Technologies (database-technologies.txt)
+
+These store and manage application data:
+
+MySQL – Relational database, structured SQL queries.
+
+PostgreSQL – Advanced relational database with strong data integrity and features.
+
+MongoDB – NoSQL database, document-oriented, flexible schema.
+
+Other database options:
+
+Redis (in-memory), SQLite, MariaDB, Cassandra
