@@ -1,0 +1,13 @@
+Backend Technologies (backend-technologies.txt)
+
+These handle server-side logic, API processing, and business logic:
+
+Node.js – JavaScript runtime for building fast, scalable server-side applications.
+
+Python – Popular for web frameworks like Django and Flask.
+
+PHP – Widely used for server-side web development (e.g., WordPress).
+
+Other notable backend options:
+
+Ruby on Rails, Java (Spring), .NET
