@@ -1,0 +1,15 @@
+Frontend Technologies (frontend-technologies.txt)
+
+These are used to build the user interface and handle the client-side logic:
+
+HTML – Structure of web pages.
+
+CSS – Styling and layout of web pages.
+
+JavaScript (JS) – Adds interactivity and dynamic behavior to web pages.
+
+Additional popular frontend tools/frameworks (optional for research):
+
+React.js, Angular, Vue.js
+
+Tailwind CSS, Bootstrap
