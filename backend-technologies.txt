@@ -11,3 +11,7 @@ PHP – Widely used for server-side web development (e.g., WordPress).
 Other notable backend options:
 
 Ruby on Rails, Java (Spring), .NET
+
+Java – Robust, statically-typed language; popular with Spring Boot for building scalable web applications.
+
+Ruby – Dynamic, object-oriented language; commonly used with Ruby on Rails for rapid web development.

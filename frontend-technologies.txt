@@ -13,3 +13,9 @@ Additional popular frontend tools/frameworks (optional for research):
 React.js, Angular, Vue.js
 
 Tailwind CSS, Bootstrap
+
+React.js – Component-based UI library for building interactive web apps; widely used in modern web development.
+
+Vue.js – Progressive framework for building user interfaces; flexible and easy to integrate.
+
+Other notes: Both React and Vue handle the view layer but rely on CSS/HTML for styling and structure.
